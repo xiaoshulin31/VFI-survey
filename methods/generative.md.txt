@@ -1,0 +1,11 @@
+# Generative Methods
+
+| Method | Year | Category | Code Link |
+|--------|------|----------|-----------|
+| ST-MFNet | 2022 | GAN | [GitHub](https://github.com/danielism97/ST-MFNet) |
+| LDMVFI | 2024 | Diffusion | [GitHub](https://github.com/danier97/LDMVFI) |
+| VIDIM | 2024 | Diffusion | [Project Page](https://vidim-interpolation.github.io/) |
+| MADiff | 2024 | Diffusion | 暂未找到官方代码仓库 |
+| MoMo | 2024 | Diffusion | [GitHub](https://github.com/JHLew/MoMo) |
+| EDEN | 2025 | Diffusion | [GitHub](https://github.com/bbldCVer/EDEN) |
+| HFD | 2025 | Diffusion | [Project Page](https://hfd-interpolation.github.io) |
